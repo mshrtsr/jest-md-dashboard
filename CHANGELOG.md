@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.6.2](https://github.com/mshrtsr/jest-md-dashboard/compare/jest-md-dashboard-v0.6.1...jest-md-dashboard-v0.6.2) (2022-08-02)
+
+
+### Bug Fixes
+
+* **deps:** update dependency isomorphic-git to ^1.19.1 ([#58](https://github.com/mshrtsr/jest-md-dashboard/issues/58)) ([9ce3564](https://github.com/mshrtsr/jest-md-dashboard/commit/9ce35646c5c0e246ee0d26ba97a1b04c0f95aa63))
+
 ## [0.6.1](https://github.com/mshrtsr/jest-md-dashboard/compare/jest-md-dashboard-v0.6.0...jest-md-dashboard-v0.6.1) (2022-07-08)
 
 
